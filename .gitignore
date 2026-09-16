@@ -1,0 +1,20 @@
+﻿# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables & Keys
+.env
+
+# MCP and Node artifacts
+node_modules/
+package-lock.json
+
+# Streamlit Cache
+.streamlit/
